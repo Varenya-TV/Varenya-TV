@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Varenya-TV
 - 👀 I’m interested in data analysis
-- 🌱 I’m currently learning Python, SQL and Statistics
+- 🌱 I’m currently learning Python, SQL & Statistics
 - 📫 You can always text me in Telegram
 
 <!---
